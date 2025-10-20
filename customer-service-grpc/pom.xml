@@ -73,7 +73,7 @@
                         <configuration>
                             <addProtoSources>all</addProtoSources>
                             <includeImports>true</includeImports>
-                            <includeStdTypes>true</includeStdTypes>
+                            <includeStdTypes>false</includeStdTypes>
                             <includeMavenTypes>direct</includeMavenTypes>
                             <outputDirectory>src/main/generated</outputDirectory>
                             <inputDirectories>

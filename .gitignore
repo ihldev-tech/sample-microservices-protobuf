@@ -1,2 +1,5 @@
+generated/
+target/
+/.idea/
 /.project
 /.settings/

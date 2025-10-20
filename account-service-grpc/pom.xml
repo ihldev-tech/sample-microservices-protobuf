@@ -74,7 +74,7 @@
                         <configuration>
                             <addProtoSources>all</addProtoSources>
                             <includeMavenTypes>direct</includeMavenTypes>
-                            <includeStdTypes>true</includeStdTypes>
+                            <includeStdTypes>false</includeStdTypes>
                             <outputDirectory>src/main/generated</outputDirectory>
                             <inputDirectories>
                                 <include>src/main/proto</include>

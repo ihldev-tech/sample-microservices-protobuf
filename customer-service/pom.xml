@@ -63,7 +63,7 @@
                         <configuration>
                             <addProtoSources>all</addProtoSources>
                             <optimizeCodegen>true</optimizeCodegen>
-                            <protocVersion>4.26.1</protocVersion>
+                            <protocVersion>4.28.3</protocVersion>
                             <includeMavenTypes>direct</includeMavenTypes>
                             <outputDirectory>src/main/generated</outputDirectory>
                             <inputDirectories>
